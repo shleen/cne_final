@@ -1,0 +1,1 @@
+An analysis on the early vote and the 2024 Presidential Election. See the [deck](https://docs.google.com/presentation/d/1BrdyS1wCX6n58GuHZ0lZPD3crr0jwLKLjTp0XGIeUCU/edit?usp=sharing) for more context.
